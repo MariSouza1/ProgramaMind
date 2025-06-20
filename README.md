@@ -19,6 +19,9 @@ Esse quiz foi desenvolvido como parte de um portfólio para demonstrar habilidad
 - CSS3
 - JavaScript (puro)
 
+## Link do site
+https://marisouza1.github.io/ProgramaMind/
+
 ## 💻 Como rodar o projeto localmente
 
 1. Clone o repositório:
